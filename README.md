@@ -18,9 +18,9 @@ Se você deseja executar o projeto em sua máquina local, siga estas etapas:
 
 1. Clone este repositório para o seu computador e acesse o diretorio:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/samirpegado/desafio-typescript-chuva.git
 
-cd nome-do-repositorio
+cd desafio-typescript-chuva
 
 
 2. Instale as dependências necessárias:
